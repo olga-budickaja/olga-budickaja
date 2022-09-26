@@ -47,7 +47,7 @@
 I am a Frontend Developer  <span><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></span>  from Ukraine.
 
 - 🔭 I made a website for myself on CMS OpenCart <a href="https://iamtoko.com.ua/" target="_blank" rel="noopener noreferrer">LooK Site</a>
-- 🌱 I finished a course at the powerful programming school ITVDN
+- 🌱 I finished a course at the powerful programming school CyberBionic Systematics
 - 👯 I'm looking to collaborate on a friendly frontend developer team
 - ⚡ Now I'm learning English to improve my developer level
 - 📫 How to reach me:  <span><a href="tg://resolve?domain=@olga27056">
