@@ -13,10 +13,36 @@
 </div>
 
 
+<h2 align="center">My works</h2>
+<div align="center">
+<a href="https://olga-budickaja.github.io/resume/">
+  <img src="https://raw.githubusercontent.com/olga-budickaja/posters/master/poster-4.jpg" width="400" height="194"/>
+</a> 
+<a href="https://olga-budickaja.github.io/photo-studio/">
+  <img src="https://raw.githubusercontent.com/olga-budickaja/posters/master/poster-2.jpg" width="400" height="194"/>
+</a>
+<br>
+</div>
+<div align="center">
+<a href="https://olga-budickaja.github.io/calculator/">
+  <img src="https://raw.githubusercontent.com/olga-budickaja/posters/master/poster-1.jpg" width="400" height="194"/>
+</a>
+<a href="https://olga-budickaja.github.io/fossil/dist/">
+  <img src="https://raw.githubusercontent.com/olga-budickaja/posters/master/poster-6.jpg" width="400" height="194"/>
+  </a>
+<br>
+</div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/lbcLMX9B6sTsGjUmS3/giphy.gif" width="600" height="300"/>
+<a href="https://olga-budickaja.github.io/todolist/">
+  <img src="https://raw.githubusercontent.com/olga-budickaja/posters/master/poster-3.jpg" width="400" height="194"/>
+</a> 
+  <a href="https://olga-budickaja.github.io/weather/">
+  <img src="https://raw.githubusercontent.com/olga-budickaja/posters/master/poster-5.jpg" width="400" height="194"/>
+</a> 
+<br>
 </div>
+
 <h2>:woman_technologist: About Me :</h2>
 I am a Frontend Developer  <span><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></span>  from Ukraine.
 
