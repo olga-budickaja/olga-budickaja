@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>&nbsp;
   I am a Frontend Developer  <span><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></span>  from Ukraine.</h1>
 <h2>:woman_technologist: About Me :</h2>
-I am a Frontend Developer  <span><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></span>  from Ukraine.
+
 
 - 🔭 I made a website for myself on CMS OpenCart <a href="https://iamtoko.com.ua/" target="_blank" rel="noopener noreferrer">LooK Site</a>
 - 🌱 I finished a course at the powerful programming school CyberBionic Systematics
@@ -37,8 +37,8 @@ I am a Frontend Developer  <span><img src="https://media.giphy.com/media/WUlplcM
 </div>
 
 
-
-<h2 align="center">My works</h2>  
+<br>
+<h2 align="center">My works :</h2>  
   <table align="center">
     <tr>
         <th>
