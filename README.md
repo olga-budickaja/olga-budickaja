@@ -32,7 +32,7 @@ I am a Frontend Developer  <span><img src="https://media.giphy.com/media/WUlplcM
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   </div>
      <h2 align="center">:fire: My Stats :</h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olga-budickaja&langs_count=8&hide=PHP)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olga-budickaja&langs_count=8&hide=PHP)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;
 [![GitHub Streak](https://streak-stats.demolab.com/?user=olga-budickaja&date_format=Mj[,Y])](https://git.io/streak-stats)
 </div>
 
