@@ -43,13 +43,13 @@
     <tr>
         <th>
             <a href="https://olga-budickaja.github.io/resume/">
-                <img src="https://raw.githubusercontent.com/olga-budickaja/posters/master/poster-4.jpg" width="400" height="194"/>
+                <img src="https://raw.githubusercontent.com/olga-budickaja/posters/master/poster-4.jpg" width="" height="194"/>
             </a>
             <p>This is my resume: HTML5, Css3,<br> JavaScript, Animate.css</p>
         </th>
         <th>
             <a href="https://olga-budickaja.github.io/photo-studio/">
-                <img src="https://raw.githubusercontent.com/olga-budickaja/posters/master/poster-2.jpg" width="400" height="194"/>
+                <img src="https://raw.githubusercontent.com/olga-budickaja/posters/master/poster-2.jpg" width="" height="194"/>
             </a>
             <p>Landing template: hamburger menu in the mobile<br> version, HTML5, CSS3, JavaScript</p>
         </th>
@@ -57,13 +57,13 @@
     <tr>
         <th>
             <a href="https://olga-budickaja.github.io/calculator/">
-                <img src="https://raw.githubusercontent.com/olga-budickaja/posters/master/poster-1.jpg" width="400" height="194"/>
+                <img src="https://raw.githubusercontent.com/olga-budickaja/posters/master/poster-1.jpg" width="" height="194"/>
             </a>
             <p>JavaScript Calculator with a changing theme:<br> HTML5, CSS3, ClassesJS, LocalStorage JS, KeyboardEvent</p><br>
         </th>
         <th> 
             <a href="https://olga-budickaja.github.io/fossil/dist/">
-                <img src="https://raw.githubusercontent.com/olga-budickaja/posters/master/poster-6.jpg" width="400" height="194"/>
+                <img src="https://raw.githubusercontent.com/olga-budickaja/posters/master/poster-6.jpg" width="" height="194"/>
             </a>
             <p>The landing page of the men's accessories online store:<br> HTML5, CSS3, SCSS, Gulp4, TabsJs, REST JSON API,<br> Embedded Video, Hamburger Menu, Forms, Google Maps</p>
         </th>
@@ -71,13 +71,13 @@
     <tr>
         <th>
             <a href="https://olga-budickaja.github.io/todolist/">
-                <img src="https://raw.githubusercontent.com/olga-budickaja/posters/master/poster-3.jpg" width="400" height="194"/>
+                <img src="https://raw.githubusercontent.com/olga-budickaja/posters/master/poster-3.jpg" width="" height="194"/>
             </a>
             <p>ToDo List: HTML5, CSS3, ClassesJS,<br> LocalStorage JS, KeyboardEvent</p>
         </th>
         <th> 
             <a href="https://olga-budickaja.github.io/weather/">
-                <img src="https://raw.githubusercontent.com/olga-budickaja/posters/master/poster-5.jpg" width="400" height="194"/>
+                <img src="https://raw.githubusercontent.com/olga-budickaja/posters/master/poster-5.jpg" width="" height="194"/>
             </a>
             <p>Weather app: HTML5, CSS3, JavaScript, REST JSON API</p><br>
         </th>
