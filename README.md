@@ -15,6 +15,7 @@
 - 👯 I'm looking to collaborate on a friendly frontend developer team
 - ⚡ Now I'm learning English to improve my developer level
 - 📫 How to reach me:  <span><a href="tg://resolve?domain=@olga27056">
+ <a href="tg://resolve?domain=olga27056">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
     <a href="https://www.linkedin.com/in/olga-budickaja-a11871246/">
