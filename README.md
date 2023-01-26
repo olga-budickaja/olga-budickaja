@@ -44,6 +44,20 @@
 <br>
 <h2 align="center">My works :</h2>  
   <table align="center">
+     <tr>
+        <th>
+            <a href="https://boa-store.herokuapp.com/">
+                <img src="https://firebasestorage.googleapis.com/v0/b/shop-54f76.appspot.com/o/my-store.png?alt=media&token=437b035a-1ba3-4985-89a1-41246d8cd994" width="" height="194"/>
+            </a>
+            <p>This is a demo functional online store:<br> React, Redux, Node.js, MongoDb, Firestore</p>
+        </th>
+        <th>
+            <a href="https://hilarious-crostata-06fe3b.netlify.app/">
+                <img src="https://firebasestorage.googleapis.com/v0/b/shop-54f76.appspot.com/o/my-store-admin.png?alt=media&token=b9e3b4ee-a8ee-4ef3-9eaa-718e6af0e0ec" width="" height="194"/>
+            </a>
+            <p>This is a demo functional admin panel for the store:<br> React, Redux, Node.js, MongoDb, Firestore</p>
+        </th>
+    </tr>
     <tr>
         <th>
             <a href="https://olga-budickaja.github.io/resume/">
