@@ -49,7 +49,9 @@
             <a href="https://olga-budickaja.github.io/resume-vue/">
                 <img src="https://firebasestorage.googleapis.com/v0/b/shop-54f76.appspot.com/o/budytska_olga_frontend_developer.png?alt=media&token=38498ab4-9073-4729-a2ea-7df9a1257209" width="" height="194"/>
             </a>
-            <p>This is my resume: Vue Cli, Vuex,<br> with a library Materialize</p>
+            <p>This is my resume: Vue Cli, Vuex,<br> with a library Materialize <br/> See 
+             <a href="https://github.com/olga-budickaja/resume-vue">MY RESUME</a>
+                </p>
         </th>
         <th>
             <a href="https://boa-airtube.herokuapp.com/">
@@ -91,7 +93,8 @@
             <a href="https://olga-budickaja.github.io/photo-studio/">
                 <img src="https://raw.githubusercontent.com/olga-budickaja/posters/master/poster-2.jpg" width="" height="194"/>
             </a>
-            <p>Landing template: hamburger menu in the mobile<br> version, HTML5, CSS3, JavaScript</p>
+            <p>Landing template: hamburger menu in the mobile<br> version, HTML5, CSS3, JavaScript <br/> See 
+             <a href="https://olga-budickaja.github.io/photo-studio/">LANDING</a></p>
         </th>
     </tr>
     <tr>
@@ -99,13 +102,15 @@
             <a href="https://olga-budickaja.github.io/calculator/">
                 <img src="https://raw.githubusercontent.com/olga-budickaja/posters/master/poster-1.jpg" width="" height="194"/>
             </a>
-            <p>JavaScript Calculator with a changing theme:<br> HTML5, CSS3, ClassesJS, LocalStorage JS, KeyboardEvent</p><br>
+            <p>JavaScript Calculator with a changing theme:<br> HTML5, CSS3, ClassesJS, LocalStorage JS, KeyboardEvent</p> See 
+             <a href="https://olga-budickaja.github.io/calculator/">CALCULATOR</a></p>
         </th>
         <th> 
             <a href="https://olga-budickaja.github.io/fossil/dist/">
                 <img src="https://raw.githubusercontent.com/olga-budickaja/posters/master/poster-6.jpg" width="" height="194"/>
             </a>
-            <p>The landing page of the men's accessories online store:<br> HTML5, CSS3, SCSS, Gulp4, TabsJs, REST JSON API,<br> Embedded Video, Hamburger Menu, Forms, Google Maps</p>
+            <p>The landing page of the men's accessories online store:<br> HTML5, CSS3, SCSS, Gulp4, TabsJs, REST JSON API,<br> Embedded Video, Hamburger Menu, Forms, Google Maps <br/> See 
+             <a href="https://olga-budickaja.github.io/fossil/dist/">FOSSIL</a></p>
         </th>
     </tr>
     <tr>
@@ -113,13 +118,15 @@
             <a href="https://olga-budickaja.github.io/todolist/">
                 <img src="https://raw.githubusercontent.com/olga-budickaja/posters/master/poster-3.jpg" width="" height="194"/>
             </a>
-            <p>ToDo List: HTML5, CSS3, ClassesJS,<br> LocalStorage JS, KeyboardEvent</p>
+            <p>ToDo List: HTML5, CSS3, ClassesJS,<br> LocalStorage JS, KeyboardEvent<br/> See 
+             <a href="https://olga-budickaja.github.io/todolist/">TODO•LIST</a></p>
         </th>
         <th> 
             <a href="https://olga-budickaja.github.io/resume/">
                 <img src="https://raw.githubusercontent.com/olga-budickaja/posters/master/poster-4.jpg" width="" height="194"/>
             </a>
-            <p>This is my resume: HTML5, Css3,<br> JavaScript, Animate.css</p><br>
+            <p>This is my resume: HTML5, Css3,<br> JavaScript, Animate.css<br/> See 
+             <a href="https://olga-budickaja.github.io/resume/">MY RESUME</a></p><br>
         </th>
     </tr>    
 </table>
