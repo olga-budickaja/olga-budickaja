@@ -44,6 +44,20 @@
 <br>
 <h2 align="center">My works :</h2>  
   <table align="center">
+      <tr>
+               <th>
+            <a href="https://olga-budickaja.github.io/resume-vue/">
+                <img src="https://firebasestorage.googleapis.com/v0/b/shop-54f76.appspot.com/o/budytska_olga_frontend_developer.png?alt=media&token=38498ab4-9073-4729-a2ea-7df9a1257209" width="" height="194"/>
+            </a>
+            <p>This is my resume: Vue Cli, Vuex,<br> with a library Materialize</p>
+        </th>
+        <th>
+            <a href="https://boa-airtube.herokuapp.com/">
+                <img src="https://firebasestorage.googleapis.com/v0/b/pattern-github.appspot.com/o/12.png?alt=media&token=6632c903-611c-4893-b91a-9bbbcdd6e1ec" width="" height="194"/>
+            </a>
+            <p>Interactive application similar to YouTube or TikTok:<br> React, Redux, Node.js, MongoDb, Firestore</p>
+        </th>
+    </tr>
      <tr>
         <th>
             <a href="https://boa-store.herokuapp.com/">
@@ -60,10 +74,10 @@
     </tr>
     <tr>
         <th>
-            <a href="https://olga-budickaja.github.io/resume-vue/">
-                <img src="https://firebasestorage.googleapis.com/v0/b/shop-54f76.appspot.com/o/budytska_olga_frontend_developer.png?alt=media&token=38498ab4-9073-4729-a2ea-7df9a1257209" width="" height="194"/>
+            <a href="https://boa-airtube.herokuapp.com/">
+                <img src="https://firebasestorage.googleapis.com/v0/b/pattern-github.appspot.com/o/2.png?alt=media&token=69736367-ad7e-4dc7-a86d-03061282fe9c" width="" height="194"/>
             </a>
-            <p>This is my resume: Vue Cli, Vuex,<br> with a library Materialize</p>
+            <p>Social network for video sharing: <br> React, Redux, Node.js, MongoDb, Firestore<br> with a library Materialize</p>
         </th>
         <th>
             <a href="https://olga-budickaja.github.io/photo-studio/">
