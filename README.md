@@ -57,7 +57,7 @@
             <a href="https://boa-airtube.herokuapp.com/">
                 <img src="https://firebasestorage.googleapis.com/v0/b/pattern-github.appspot.com/o/12.png?alt=media&token=6632c903-611c-4893-b91a-9bbbcdd6e1ec" width="" height="194"/>
             </a>
-            <p>Interactive application similar to YouTube or TikTok:<br> React, Redux, Node.js, MongoDb, Firestore<br/>Read: 
+            <p>Interactive application similar to YouTube or TikTok:<br> React, Redux, Node.js, MongoDb, Firebase<br/>Read: 
              <a href="https://github.com/olga-budickaja/airtube">README</a>
          </p>
         </th>
@@ -67,7 +67,7 @@
             <a href="https://boa-store.herokuapp.com/">
                 <img src="https://firebasestorage.googleapis.com/v0/b/shop-54f76.appspot.com/o/my-store.png?alt=media&token=437b035a-1ba3-4985-89a1-41246d8cd994" width="" height="194"/>
             </a>
-            <p>This is a demo functional online store:<br> React, Redux, Node.js, MongoDb, Firestore <br/>
+            <p>This is a demo functional online store:<br> React, Redux, Node.js, MongoDb, Firebase <br/>
              <a href="https://github.com/olga-budickaja/my-store-admin">README</a>
          </p>
         </th>
@@ -75,7 +75,7 @@
             <a href="https://hilarious-crostata-06fe3b.netlify.app/">
                 <img src="https://firebasestorage.googleapis.com/v0/b/shop-54f76.appspot.com/o/my-store-admin.png?alt=media&token=b9e3b4ee-a8ee-4ef3-9eaa-718e6af0e0ec" width="" height="194"/>
             </a>
-            <p>This is a demo functional admin panel for the store:<br> React, Redux, Node.js, MongoDb, Firestore <br/>
+            <p>This is a demo functional admin panel for the store:<br> React, Redux, Node.js, MongoDb, Firebase <br/>
              <a href="https://github.com/olga-budickaja/my-store-admin">README</a>
          </p>
         </th>
@@ -85,7 +85,7 @@
             <a href="https://boa-airtube.herokuapp.com/">
                 <img src="https://firebasestorage.googleapis.com/v0/b/pattern-github.appspot.com/o/2.png?alt=media&token=69736367-ad7e-4dc7-a86d-03061282fe9c" width="" height="194"/>
             </a>
-            <p>Social network for video sharing: <br> React, Redux, Node.js, MongoDb, Firestore<br> with a library Materialize <br/>
+            <p>Social network for video sharing: <br> React, Redux, Node.js, MongoDb, Firebase<br> with a library Materialize <br/>
              <a href="https://github.com/olga-budickaja/airtube">README</a>
          </p>
         </th>
