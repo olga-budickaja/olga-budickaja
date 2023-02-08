@@ -25,7 +25,7 @@
   </span><br>
      <h2 align="center">:fire: My Stats :</h2>
      
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olga-budickaja&langs_count=8&hide=PHP)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olga-budickaja&layout=compact&langs_count=8&hide=PHP)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;
 [![GitHub Streak](https://streak-stats.demolab.com/?user=olga-budickaja&date_format=Mj[,Y])](https://git.io/streak-stats)
 </div>
 
