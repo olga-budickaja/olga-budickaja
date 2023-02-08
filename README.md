@@ -72,21 +72,21 @@
          </p>
         </th>
         <th>
-            <a href="https://hilarious-crostata-06fe3b.netlify.app/">
-                <img src="https://firebasestorage.googleapis.com/v0/b/shop-54f76.appspot.com/o/my-store-admin.png?alt=media&token=b9e3b4ee-a8ee-4ef3-9eaa-718e6af0e0ec" width="" height="194"/>
+            <a href="https://boa-movies.herokuapp.com/">
+                <img src="https://firebasestorage.googleapis.com/v0/b/pattern-github.appspot.com/o/Screenshot_5.png?alt=media&token=c45183c4-578b-447c-b5d7-e5b7a6d7af63" width="" height="194"/>
             </a>
-            <p>This is a demo functional admin panel for the store:<br> React, Redux, Node.js, MongoDb, Firebase <br/>
-             <a href="https://github.com/olga-budickaja/my-store-admin">README</a>
+            <p>Movies sharing app demo: <br> React, GraphQl, Node.js, TMDB<br> with a library Mui Material <br/>
+             <a href="https://boa-movies.herokuapp.com/">See Demo</a>
          </p>
         </th>
     </tr>
     <tr>
         <th>
-            <a href="https://boa-airtube.herokuapp.com/">
-                <img src="https://firebasestorage.googleapis.com/v0/b/pattern-github.appspot.com/o/2.png?alt=media&token=69736367-ad7e-4dc7-a86d-03061282fe9c" width="" height="194"/>
+            <a href="https://hilarious-crostata-06fe3b.netlify.app/">
+                <img src="https://firebasestorage.googleapis.com/v0/b/shop-54f76.appspot.com/o/my-store-admin.png?alt=media&token=b9e3b4ee-a8ee-4ef3-9eaa-718e6af0e0ec" width="" height="194"/>
             </a>
-            <p>Social network for video sharing: <br> React, Redux, Node.js, MongoDb, Firebase<br> with a library Materialize <br/>
-             <a href="https://github.com/olga-budickaja/airtube">README</a>
+            <p>This is a demo functional admin panel for the store:<br> React, Redux, Node.js, MongoDb, Firebase <br/>
+             <a href="https://github.com/olga-budickaja/my-store-admin">README</a>
          </p>
         </th>
         <th>
