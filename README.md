@@ -63,7 +63,7 @@
         </th>
         <th>
             <a href="https://boa-movies.herokuapp.com/" target="_blank">
-                <img src="https://firebasestorage.googleapis.com/v0/b/pattern-github.appspot.com/o/Screenshot_5.png?alt=media&token=c45183c4-578b-447c-b5d7-e5b7a6d7af63" width="" height="194"/>
+                <img src="https://firebasestorage.googleapis.com/v0/b/pattern-github.appspot.com/o/movies.png?alt=media&token=ac72ba88-72dd-4a02-8b36-930d7cb129313" width="" height="194"/>
             </a>
             <p>Movies sharing app demo: <br> React, GraphQl, Node.js, TMDB<br> with a library Mui Material <br/>
              <a href="https://boa-movies.herokuapp.com/" target="_blank">See Demo</a>
@@ -72,12 +72,11 @@
     </tr>
     <tr>
         <th>
-            <a href="https://hilarious-crostata-06fe3b.netlify.app/" target="_blank">
-                <img src="https://firebasestorage.googleapis.com/v0/b/shop-54f76.appspot.com/o/my-store-admin.png?alt=media&token=b9e3b4ee-a8ee-4ef3-9eaa-718e6af0e0ec" width="" height="194"/>
+            <a href="https://livemessenger.herokuapp.com/" target="_blank">
+                <img src="https://firebasestorage.googleapis.com/v0/b/pattern-github.appspot.com/o/Screenshot_14.png?alt=media&token=5f3f77bb-d200-4f54-8cf7-9bd3f71bb305" width="" height="194"/>
             </a>
-            <p>This is a demo functional admin panel for the store:<br> React, Redux, Node.js, MongoDb, Firebase <br/>
-             <a href="https://github.com/olga-budickaja/my-store-admin" target="_blank">README</a>
-         </p>
+            <p>This application is an interactive chat. <br/> 💻 Application made with: React / React Context, NodeJS / ExpressJS,<br/> MySQL and Socket.io with JWT encryption <br/>
+             <a href="https://github.com/olga-budickaja/lia-messenger" target="_blank">README</a></p>
         </th>
         <th>
             <a href="https://olga-budickaja.github.io/photo-studio/" target="_blank">
@@ -111,6 +110,24 @@
             <p>ToDo List: HTML5, CSS3, ClassesJS,<br> LocalStorage JS, KeyboardEvent<br/> See 
              <a href="https://olga-budickaja.github.io/todolist/" target="_blank">TODO•LIST</a></p>
         </th>
+        <th>
+            <a href="https://boa-airtube.herokuapp.com/" target="_blank">
+                <img src="https://firebasestorage.googleapis.com/v0/b/pattern-github.appspot.com/o/2.png?alt=media&token=69736367-ad7e-4dc7-a86d-03061282fe9c" width="" height="194"/>
+            </a>
+            <p>Interactive application similar to YouTube or TikTok:<br> React, Redux, Node.js, MongoDb, Firebase<br/>Read: 
+             <a href="https://github.com/olga-budickaja/airtube" target="_blank">README</a>
+         </p>
+        </th>
+    </tr>    
+        <tr>
+        <th>
+            <a href="https://hilarious-crostata-06fe3b.netlify.app/" target="_blank">
+                <img src="https://firebasestorage.googleapis.com/v0/b/shop-54f76.appspot.com/o/my-store-admin.png?alt=media&token=b9e3b4ee-a8ee-4ef3-9eaa-718e6af0e0ec" width="" height="194"/>
+            </a>
+            <p>This is a demo functional admin panel for the store:<br> React, Redux, Node.js, MongoDb, Firebase <br/>
+             <a href="https://github.com/olga-budickaja/my-store-admin" target="_blank">README</a>
+         </p>
+        </th>
         <th> 
             <a href="https://olga-budickaja.github.io/resume/" target="_blank">
                 <img src="https://raw.githubusercontent.com/olga-budickaja/posters/master/poster-4.jpg" width="" height="194"/>
@@ -118,7 +135,7 @@
             <p>This is my resume: HTML5, Css3,<br> JavaScript, Animate.css<br/> See 
              <a href="https://olga-budickaja.github.io/resume/" target="_blank">MY RESUME</a></p><br>
         </th>
-    </tr>    
+    </tr>  
 </table>
 
 
