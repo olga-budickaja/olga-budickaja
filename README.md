@@ -79,20 +79,21 @@
              <a href="https://github.com/olga-budickaja/lia-messenger" target="_blank">README</a></p>
         </th>
         <th>
+            <a href="https://astonishing-licorice-278116.netlify.app/" target="_blank">
+                <img src="https://firebasestorage.googleapis.com/v0/b/pattern-github.appspot.com/o/3d-portfolio.png?alt=media&token=df6144ee-47b9-4a29-8c23-cb968f150a1e" width="" height="194"/>
+            </a>
+         <p>This is 3D portfolio React + Vite.js + Three.js </br> with animations effects<br/>See: 
+             <a href="https://astonishing-licorice-278116.netlify.app/">3D application</a>
+         </p>
+        </th>
+    </tr>
+    <tr>
+        <th>
             <a href="https://olga-budickaja.github.io/photo-studio/" target="_blank">
                 <img src="https://raw.githubusercontent.com/olga-budickaja/posters/master/poster-2.jpg" width="" height="194"/>
             </a>
             <p>Landing template: hamburger menu in the mobile<br> version, HTML5, CSS3, JavaScript <br/> See 
              <a href="https://olga-budickaja.github.io/photo-studio/" target="_blank">LANDING</a></p>
-        </th>
-    </tr>
-    <tr>
-        <th>
-            <a href="https://olga-budickaja.github.io/calculator/" target="_blank">
-                <img src="https://raw.githubusercontent.com/olga-budickaja/posters/master/poster-1.jpg" width="" height="194"/>
-            </a>
-            <p>JavaScript Calculator with a changing theme:<br> HTML5, CSS3, ClassesJS, LocalStorage JS, KeyboardEvent</p> See 
-             <a href="https://olga-budickaja.github.io/calculator/" target="_blank">CALCULATOR</a></p>
         </th>
         <th> 
             <a href="https://olga-budickaja.github.io/fossil/dist/" target="_blank">
@@ -111,12 +112,11 @@
              <a href="https://olga-budickaja.github.io/todolist/" target="_blank">TODO•LIST</a></p>
         </th>
         <th>
-            <a href="https://boa-airtube.herokuapp.com/" target="_blank">
-                <img src="https://firebasestorage.googleapis.com/v0/b/pattern-github.appspot.com/o/2.png?alt=media&token=69736367-ad7e-4dc7-a86d-03061282fe9c" width="" height="194"/>
+            <a href="https://olga-budickaja.github.io/calculator/" target="_blank">
+                <img src="https://raw.githubusercontent.com/olga-budickaja/posters/master/poster-1.jpg" width="" height="194"/>
             </a>
-            <p>Interactive application similar to YouTube or TikTok:<br> React, Redux, Node.js, MongoDb, Firebase<br/>Read: 
-             <a href="https://github.com/olga-budickaja/airtube" target="_blank">README</a>
-         </p>
+            <p>JavaScript Calculator with a changing theme:<br> HTML5, CSS3, ClassesJS, LocalStorage JS, KeyboardEvent</p> See 
+             <a href="https://olga-budickaja.github.io/calculator/" target="_blank">CALCULATOR</a></p>
         </th>
     </tr>    
         <tr>
