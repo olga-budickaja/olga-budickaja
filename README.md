@@ -79,11 +79,11 @@
              <a href="https://github.com/olga-budickaja/lia-messenger" target="_blank">README</a></p>
         </th>
         <th>
-            <a href="https://astonishing-licorice-278116.netlify.app/" target="_blank">
+            <a href="https://papaya-lollipop-6797ab.netlify.app/" target="_blank">
                 <img src="https://firebasestorage.googleapis.com/v0/b/pattern-github.appspot.com/o/3d-portfolio.png?alt=media&token=df6144ee-47b9-4a29-8c23-cb968f150a1e" width="" height="194"/>
             </a>
          <p>This is 3D portfolio React + Vite.js + Three.js </br> with animations effects<br/>See: 
-             <a href="https://astonishing-licorice-278116.netlify.app/">3D application</a>
+             <a href="https://papaya-lollipop-6797ab.netlify.app/">3D application</a>
          </p>
         </th>
     </tr>
