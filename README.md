@@ -13,7 +13,7 @@
 - 🔮 Check out my amazing parallax resume <a href="https://olga-budickaja.github.io/resume-vue/" target="_blank" rel="noopener noreferrer">Amazing resume ✨</a>
 - 🌱 I finished a course at the powerful programming school CyberBionic Systematics
 - 🌟 I'm looking to collaborate on a friendly frontend developer team!
-- 😎 My skills: <br/><br/> &nbsp; [![My Skills](https://skills.thijs.gg/icons?i=react,redux,ts,nestjs,nuxtjs,vue,nodejs,nextjs,graphql,mongodb,mysql,firebase,postman,gulp,heroku,netlify,jquery,materialui,figma,js,bootstrap,jquery,html,sass,css,github)](https://skills.thijs.gg)<br/><br/>
+- 😎 My skills: <br/><br/> &nbsp; [![My Skills](https://skillicons.dev/icons?i=react,redux,ts,nestjs,nuxtjs,vue,nodejs,nextjs,graphql,mongodb,mysql,firebase,postman,gulp,heroku,netlify,jquery,materialui,figma,js,bootstrap,jquery,html,sass,css,github)](https://skills.thijs.gg)<br/><br/>
 - 📫 How to reach me:  <span><a href="tg://resolve?domain=@olga27056">
  <a href="https://telegram.me/olga27056">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
